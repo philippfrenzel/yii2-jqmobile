@@ -1,6 +1,6 @@
 {
 	"name": "philippfrenzel/yii2-jqmobile",
-	"description": "Backbone.js Asset bundle for yii2",
+	"description": "jQuery Mobile Asset bundle for yii2",
 	"type": "yii2-extension",
 	"keywords": [
 		"yii2",
