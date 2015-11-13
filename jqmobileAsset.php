@@ -18,7 +18,8 @@ class jqmobileAsset extends AssetBundle
     
     public $css = [
         'css/themes/default/jquery.mobile.css',
-        'css/structure/jquery.mobile.structure.css'
+        'css/structure/jquery.mobile.structure.css',
+        'css/themes/default/jquery.mobile.inline-png.css'
     ];
 
     /**
