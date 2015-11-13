@@ -17,7 +17,8 @@ class jqmobileAsset extends AssetBundle
     public $sourcePath = '@bower/jquery-mobile';
     
     public $css = [
-        'css/themes/default/jquery.mobile.css'
+        'css/themes/default/jquery.mobile.css',
+        'css/structure/jquery.mobile.structure.css'
     ];
 
     /**
