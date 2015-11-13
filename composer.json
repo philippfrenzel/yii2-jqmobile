@@ -15,7 +15,7 @@
 	],
 	"require": {
 		"yiisoft/yii2": "*",
-		"bower-asset/jquery-mobile": "~1.4.5"
+		"bower-asset/jquery-mobile": "~1.4.0"
 	},
 	"autoload": {
 		"psr-4": {
