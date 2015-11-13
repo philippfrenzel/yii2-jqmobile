@@ -1,0 +1,25 @@
+{
+	"name": "philippfrenzel/yii2-jqmobile",
+	"description": "Backbone.js Asset bundle for yii2",
+	"type": "yii2-extension",
+	"keywords": [
+		"yii2",
+		"jquery mobile"
+	],
+	"license": "MIT Clause",
+	"authors": [
+		{
+			"name": "Philipp Frenzel",
+			"email": "philipp@frenzel.net"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "*",
+		"bower-asset/jquery-mobile": "~1.4.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"net\\frenzel\\assets\\jqmobile\\": ""
+		}
+	}
+}
