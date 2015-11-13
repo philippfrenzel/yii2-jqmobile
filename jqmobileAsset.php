@@ -28,7 +28,7 @@ class jqmobileAsset extends AssetBundle
      */
     public $js = [
         'js/jquery.mobile.js',
-        'js/external/requirejs/require.js'
+        'external/requirejs/require.js'
     ];
 
     /**
